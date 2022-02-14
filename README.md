@@ -1,2 +1,3 @@
 # Digital-Verification
-The Use of Digital Identity Verification to verify and OCR the content
+The Use of Digital Identity Verification to capture the OCR content if Digital Identification and Verify the client identity. 
+
